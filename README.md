@@ -2,8 +2,6 @@
 
 A Pokédex made for fun in Vue.js.
 
-View live at: https://shadforth.github.io/vue-pokedex
-
 The Pokédex includes the first 251 Pokémon, with:
 
 - Descriptions and types
