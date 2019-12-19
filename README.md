@@ -57,24 +57,3 @@ npm run serve
   └── package.json       # Requirements for npm installation
 ```
 
-## To do
-
-- [x] Deploy to GitHub Pages
-- [x] Set up unit tests
-- [ ] Set up e2e tests
-- [ ] Add the remaining 551 Pokémon
-- [ ] Add strengths and weaknesses
-- [ ] Add evolutionary requirements (i.e. Moon Stone, etc.)
-
-## Contributions
-
-All contributions welcome. 😃
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- [Veekun](https://veekun.com/dex/downloads) - Pokémon sprites, icons, and audio
-- [BrunnerLivio](https://github.com/BrunnerLivio) - Pokémon JSON data
