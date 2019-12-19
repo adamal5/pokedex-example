@@ -1,4 +1,4 @@
-# Vue Pokédex [![Maintainability](https://api.codeclimate.com/v1/badges/fb4793225019f84f2383/maintainability)](https://codeclimate.com/github/shadforth/vue-pokedex/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/fb4793225019f84f2383/test_coverage)](https://codeclimate.com/github/shadforth/vue-pokedex/test_coverage) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/shadforth/vue-pokedex/issues)
+# Vue Pokédex
 
 A Pokédex made for fun in Vue.js.
 
