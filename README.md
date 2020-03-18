@@ -55,3 +55,14 @@ npm run serve
   └── package.json       # Requirements for npm installation
 ```
 
+### Extra Configuration
+
+You may need to include a vue.config.js at the root of the project, and enter the following into it:
+
+```
+module.exports = {
+    devServer: {
+        disableHostCheck: true
+    }
+}
+```
