@@ -18,7 +18,11 @@ The Pokédex includes the first 251 Pokémon, with:
 
 - Node.js &amp; npm
 
-To download Node.js and npm, visit the [Node.js downloads page](https://nodejs.org/en/download/) and select the version labelled **LTS**.
+To download Node.js and npm:
+
+```bash
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - && sudo apt-get install -y nodejs
+```
 
 After installing Node.js, run the following command to verify that everything has been installed correctly.
 
